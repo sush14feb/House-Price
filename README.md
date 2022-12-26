@@ -1,6 +1,8 @@
 # House-Price-Prediction
-
 ### Problem statement : 
+[Dataset](https://github.com/sush14feb/House-Price/blob/main/DS%20-%20Assignment%20Part%201%20data%20set.xlsx)
+<br>
+
 
 The goal is to understand the relationship between house features and how these
 variables affect the house price.
